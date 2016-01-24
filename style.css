@@ -1,0 +1,21 @@
+.box {
+	 position: absolute;
+    height: 460px;
+    width: 400px;
+    margin: -100px 0 0 -200px;
+    top: 37%;
+    left: 50%;
+    border: 2px solid #66ffcb;
+    background-color: white;
+    box-shadow: 12px 12px 7px #66ffcb;
+
+	}
+.header {
+	color: #808080;
+	font-size: 15px;
+	padding-left: 5px;
+	}
+.inputt {
+	padding-left: 5px;
+	height:40px;
+}
